@@ -1,2 +1,1 @@
-# astronaut-daily-routine
-daily routine of an astronaut
+# Astro-Daily-Life
